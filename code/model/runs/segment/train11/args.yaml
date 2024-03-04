@@ -1,17 +1,19 @@
 task: segment
 mode: train
-model: yolov8n-seg.pt
-data: C:\Users\ivano\OneDrive\Документы\GitHub\Rail_segm\gen_dataset\YOLO_dataset\data.yaml
-epochs: 1
+model: yolov8l-seg.pt
+data: C:\Users\ivano\Документы\GitHub\Rail_segm\code\gen_dataset\YOLO_dataset\data.yaml
+epochs: 3
 time: null
-patience: 50
+patience: 100
 batch: 1
-imgsz: 640
+imgsz:
+- 1920
+- 1080
 save: true
 save_period: -1
 cache: false
 device: null
-workers: 1
+workers: 0
 project: null
 name: train11
 exist_ok: false

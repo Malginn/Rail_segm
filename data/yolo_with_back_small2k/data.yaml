@@ -1,0 +1,6 @@
+names:
+- switch
+nc: 1
+test: validation/images
+train: train/images
+val: validation/images
