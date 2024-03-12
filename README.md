@@ -29,7 +29,8 @@ torchvision==0.17.1+cu121
 Check if these cuda and cuDNN drivers match
 
 ## <a name="Demo">Demo</a>
-
-https://github.com/Malginn/Rail_segm/assets/89131328/8f164965-b0aa-4881-959d-b8ba9276bfdb
+<p align="center">
+  [video](https://github.com/Malginn/Rail_segm/assets/89131328/8f164965-b0aa-4881-959d-b8ba9276bfdb)
+</p>
 
 ## <a name="Sources">Sources</a>
