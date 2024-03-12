@@ -13,7 +13,7 @@ This project solves the problems of recognizing switches on the railway, taking 
 ## <a name="Technologies">Technologies</a>
 - [YOLOv8](https://github.com/ultralytics/ultralytics)
 ## <a name="Usage">Usage</a>
-To install the project, just ___clone the project___ and install the dependencies from the __requirement.txt__ file
+To install the project, just ___clone the project___ and install the dependencies from the ___requirement.txt___ file
 
 ```sh
 pip install -r requirements.txt
