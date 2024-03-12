@@ -18,6 +18,7 @@ To install the project, just ___clone the project___ and install the dependencie
 ```sh
 pip install -r requirements.txt
 ```
+To run, configure the paths for the `code/models/inference.ipynb` file and run the code for training or forwardpass
 
 ## <a name="Development">Development</a>
 During development, the version of CUDA 12.1 for pytorch was used, so the same version is indicated in the requirements file
