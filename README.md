@@ -35,3 +35,4 @@ https://github.com/Malginn/Rail_segm/assets/89131328/8f164965-b0aa-4881-959d-b8b
 
 ## <a name="Sources">Sources</a>
 - [RailSem19: A Dataset for Semantic Rail Scene Understanding](https://openaccess.thecvf.com/content_CVPRW_2019/papers/WAD/Zendel_RailSem19_A_Dataset_for_Semantic_Rail_Scene_Understanding_CVPRW_2019_paper.pdf)
+- [Сегментация железнодорожных путей современными сверточными нейронными сетями](https://www.researchgate.net/publication/371681469_Segmentacia_zeleznodoroznyh_putej_sovremennymi_svertocnymi_nejronnymi_setami)
