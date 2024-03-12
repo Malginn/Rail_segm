@@ -11,7 +11,7 @@ This project solves the problems of recognizing switches on the railway, taking 
 - [Sources](#Sources)
 
 ## <a name="Technologies">Technologies</a>
-
+- [YOLOv8](https://github.com/ultralytics/ultralytics)
 ## <a name="Usage">Usage</a>
 
 ## <a name="Development">Development</a>
