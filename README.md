@@ -5,12 +5,12 @@ This project solves the problems of recognizing switches on the railway, taking 
 
 ## Contents
 
-## <a name="Technologies"></a>
+## <a name="Technologies">Technologies</a>
 
-## <a name="Usage"></a>
+## <a name="Usage">Usage</a>
 
-## <a name="Development"></a>
+## <a name="Development">Development</a>
 
-## <a name="Demo"></a>
+## <a name="Demo">Demo</a>
 
-## <a name="Sources"></a>
+## <a name="Sources">Sources</a>
