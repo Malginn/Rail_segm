@@ -26,7 +26,7 @@ torch==2.2.1+cu121
 torcaudio==2.2.1+cu121
 torchvision==0.17.1+cu121
 ```
-Check if your cuda and cuDNN drivers match
+Check if these cuda and cuDNN drivers match
 
 ## <a name="Demo">Demo</a>
 
