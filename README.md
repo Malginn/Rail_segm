@@ -28,9 +28,16 @@ torchvision==0.17.1+cu121
 ```
 Check if these cuda and cuDNN drivers match
 
+#### on this disk you can find all the data that was used or generated in this project
+[Google Drive](https://drive.google.com/drive/folders/1fTvgyfbYXH-9kYn9OYU3ISHZQnuNmelm?usp=sharing)
+
 ## <a name="Demo">Demo</a>
 
 https://github.com/Malginn/Rail_segm/assets/89131328/8f164965-b0aa-4881-959d-b8ba9276bfdb
+
+##TODO:
+- enrich training examples to improve model accuracy
+- play with threshold values `IoU` и `Conf`
 
 
 ## <a name="Sources">Sources</a>
