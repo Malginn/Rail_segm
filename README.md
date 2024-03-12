@@ -26,9 +26,9 @@ torch==2.2.1+cu121
 torcaudio==2.2.1+cu121
 torchvision==0.17.1+cu121
 ```
-Check if these cuda and cuDNN drivers match
+Check if these cuda and __cuDNN__ drivers match
 
-### on this disk you can find all the data that was used or generated in this project [Google Drive](https://drive.google.com/drive/folders/1fTvgyfbYXH-9kYn9OYU3ISHZQnuNmelm?usp=sharing)
+### On this __drive__ you can find all the data that was used or generated in this project [Google Drive](https://drive.google.com/drive/folders/1fTvgyfbYXH-9kYn9OYU3ISHZQnuNmelm?usp=sharing)
 
 ## <a name="Demo">Demo</a>
 
