@@ -8,6 +8,7 @@ This project solves the problems of recognizing switches on the railway, taking 
 - [Usage](#Usage)
 - [Development](#Development)
 - [Demo](#Demo)
+- [TODO](#TODO)
 - [Sources](#Sources)
 
 ## <a name="Technologies">Technologies</a>
@@ -39,7 +40,7 @@ Check if these cuda and __cuDNN__ drivers match
 
 https://github.com/Malginn/Rail_segm/assets/89131328/8f164965-b0aa-4881-959d-b8ba9276bfdb
 
-## TODO:
+## ## <a name="TODO">TODO</a>:
 - enrich training examples to improve model accuracy
 - play with threshold values `IoU` и `Conf`
 
