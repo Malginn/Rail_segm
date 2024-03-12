@@ -11,7 +11,28 @@ This project solves the problems of recognizing switches on the railway, taking 
 - [Sources](#Sources)
 
 ## <a name="Technologies">Technologies</a>
+fsdfdsf
+sdfsdfsdf
 
+
+
+
+
+fsdfsdf
+
+
+df
+sdfsdfa
+
+sdfasdf
+as
+df
+asd
+fas
+df
+asdf
+asdf
+asd
 ## <a name="Usage">Usage</a>
 
 ## <a name="Development">Development</a>
