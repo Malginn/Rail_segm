@@ -4,11 +4,11 @@ This project solves the problems of recognizing switches on the railway, taking 
 ✅On support.
 
 ## Contents
-- [Technologies](Technologies)
-- [Usage](Usage)
-- [Development](Development)
-- [Demo](Demo)
-- [Sources](Sources)
+- [Technologies](#Technologies)
+- [Usage](#Usage)
+- [Development](#Development)
+- [Demo](#Demo)
+- [Sources](#Sources)
 
 ## <a name="Technologies">Technologies</a>
 
