@@ -29,6 +29,7 @@ torchvision==0.17.1+cu121
 Check if these cuda and __cuDNN__ drivers match
 
 ### On this __drive__ you can find all the data that was used or generated in this project [Google Drive](https://drive.google.com/drive/folders/1fTvgyfbYXH-9kYn9OYU3ISHZQnuNmelm?usp=sharing)
+-----------
 
 ## <a name="Demo">Demo</a>
 
