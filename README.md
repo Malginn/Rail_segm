@@ -19,7 +19,7 @@ To install the project, just ___clone the project___ and install the dependencie
 ```sh
 pip install -r requirements.txt
 ```
-To run, configure the paths for the `code/model/inference.ipynb` file and run the code for training or forwardpass
+To run, configure the paths for the `code/model/inference.ipynb` file and run the code for training or forward pass
 
 To view the metric values ​​that the model received during training, view the `results` folder
 
@@ -42,7 +42,7 @@ https://github.com/Malginn/Rail_segm/assets/89131328/8f164965-b0aa-4881-959d-b8b
 
 ## <a name="TODO">TODO</a>:
 - enrich training examples to improve model accuracy
-- play with threshold values `IoU` и `Conf`
+- play with threshold values `IoU` and `Conf`
 
 
 ## <a name="Sources">Sources</a>
