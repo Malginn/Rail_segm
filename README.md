@@ -20,6 +20,13 @@ pip install -r requirements.txt
 ```
 
 ## <a name="Development">Development</a>
+During development, the version of CUDA 12.1 for pytorch was used, so the same version is indicated in the requirements file
+```
+torch==2.2.1+cu121
+torcaudio==2.2.1+cu121
+torchvision==0.17.1+cu121
+```
+Check if your cuda and cuDNN drivers match
 
 ## <a name="Demo">Demo</a>
 
